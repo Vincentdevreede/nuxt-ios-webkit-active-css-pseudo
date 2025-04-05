@@ -1,7 +1,9 @@
 <template>
   <div>
     <h1>Nuxt iOS WebKit Active CSS Pseudo</h1>
-    <button @click="onClick">Button</button>
+    <button @click="onClick">
+      Button
+    </button>
   </div>
 </template>
 
