@@ -11,22 +11,39 @@
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-This simple, lightweight Nuxt plugin ⚙️ resolves a common issue in iOS WebKit browsers 📱: the `:active` CSS pseudo-class doesn’t function as expected without an explicit `touchstart` event ✋.
+This simple, lightweight Nuxt module ⚙️ resolves a common issue in iOS WebKit browsers 📱: the `:active` CSS pseudo-class doesn’t function as expected without an explicit `touchstart` event ✋.
 
 - **⚡ Effortless Fix**: A straightforward solution for the `:active` issue on iOS WebKit that just works.
 - **📦 Minimal size**: It's lightweight and has no extra dependencies to worry about
 - **🔧 Easy Integration**: Super simple to add to any existing project.
 
-## 🛠️ Installation
+## 🛠️ Quick Setup
 
-You can install the plugin via npm:
+The fastest way to get started — Nuxt will install and configure the module for you automatically:
 
 ```bash
+npx nuxi module add nuxt-ios-webkit-active-css-pseudo
+```
+That’s it! You’re ready to go 🚀
+
+
+
+## ⚡ Manual Installation
+
+### 1. Install the module
+
+```bash
+# npm
 npm install nuxt-ios-webkit-active-css-pseudo
+
+# yarn
+yarn add nuxt-ios-webkit-active-css-pseudo
+
+# pnpm
+pnpm add nuxt-ios-webkit-active-css-pseudo
 ```
 
-## ⚡ Usage
-Add to modules in nuxt.config.ts:
+### 2. Add to modules in nuxt.config.ts:
 ```javascript
 // nuxt.config.ts
 export default defineNuxtConfig({
@@ -47,16 +64,6 @@ document.addEventListener('touchstart', () => {}, { passive: true });
 Contributions are welcome! If you’ve got ideas or want to help out, feel free to open an issue or submit a pull request.
 If you run into any problems, let me know by reporting them [here](https://github.com/Vincentdevreede/nuxt-ios-webkit-active-css-pseudo/issues).
 
-## 🧑‍💻 Author
-
-**Vincent De Vreede**  
-[GitHub](https://github.com/Vincentdevreede)  
-[LinkedIn](https://www.linkedin.com/in/VincentdeVreede) 
-
-## 📜 License
-
-[MIT](LICENSE)
-
 <!-- Badges -->
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-ios-webkit-active-css-pseudo/latest.svg?style=flat&colorA=020420&colorB=00DC82
 [npm-version-href]: https://npmjs.com/package/nuxt-ios-webkit-active-css-pseudo
@@ -65,7 +72,7 @@ If you run into any problems, let me know by reporting them [here](https://githu
 [npm-downloads-href]: https://npm.chart.dev/nuxt-ios-webkit-active-css-pseudo
 
 [license-src]: https://img.shields.io/npm/l/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
-[license-href]: https://npmjs.com/package/nuxt-ios-webkit-active-css-pseudo
+[license-href]: https://github.com/Vincentdevreede/nuxt-ios-webkit-active-css-pseudo/blob/HEAD/LICENSE
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
