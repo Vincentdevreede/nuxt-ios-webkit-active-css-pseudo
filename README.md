@@ -1,4 +1,15 @@
+<p align="center">
+  <a href="https://nuxterror.com/" target="_blank">
+    <img src="https://nuxterror.com/logo.svg" alt="NuxtError" width="280" height="84">
+  </a>
+</p>
+
 # 📱 Nuxt iOS WebKit `:active` CSS Pseudo
+
+[![npm version][npm-version-src]][npm-version-href]
+[![npm downloads][npm-downloads-src]][npm-downloads-href]
+[![License][license-src]][license-href]
+[![Nuxt][nuxt-src]][nuxt-href]
 
 This simple, lightweight Nuxt plugin ⚙️ resolves a common issue in iOS WebKit browsers 📱: the `:active` CSS pseudo-class doesn’t function as expected without an explicit `touchstart` event ✋.
 
@@ -45,3 +56,16 @@ If you run into any problems, let me know by reporting them [here](https://githu
 ## 📜 License
 
 [MIT](LICENSE)
+
+<!-- Badges -->
+[npm-version-src]: https://img.shields.io/npm/v/nuxt-ios-webkit-active-css-pseudo/latest.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-version-href]: https://npmjs.com/package/nuxt-ios-webkit-active-css-pseudo
+
+[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-downloads-href]: https://npm.chart.dev/nuxt-ios-webkit-active-css-pseudo
+
+[license-src]: https://img.shields.io/npm/l/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
+[license-href]: https://npmjs.com/package/nuxt-ios-webkit-active-css-pseudo
+
+[nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
+[nuxt-href]: https://nuxt.com
