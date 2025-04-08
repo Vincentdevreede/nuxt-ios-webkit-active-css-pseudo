@@ -22,7 +22,7 @@ This simple, lightweight Nuxt module ⚙️ resolves a common issue in iOS WebKi
 The fastest way to get started — Nuxt will install and configure the module for you automatically:
 
 ```bash
-npx nuxi module add nuxt-ios-webkit-active-css-pseudo
+npx nuxi module add @vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 ```
 That’s it! You’re ready to go 🚀
 
@@ -34,13 +34,13 @@ That’s it! You’re ready to go 🚀
 
 ```bash
 # npm
-npm install nuxt-ios-webkit-active-css-pseudo
+npm install @vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 
 # yarn
-yarn add nuxt-ios-webkit-active-css-pseudo
+yarn add @vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 
 # pnpm
-pnpm add nuxt-ios-webkit-active-css-pseudo
+pnpm add @vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 ```
 
 ### 2. Add to modules in nuxt.config.ts:
