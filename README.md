@@ -48,7 +48,7 @@ pnpm add @vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 // nuxt.config.ts
 export default defineNuxtConfig({
   modules: [
-    'nuxt-ios-webkit-active-css-pseudo'
+    '@vincentdevreede/nuxt-ios-webkit-active-css-pseudo'
   ]
 });
 ```
