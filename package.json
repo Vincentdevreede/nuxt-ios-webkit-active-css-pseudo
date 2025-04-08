@@ -1,6 +1,6 @@
 {
   "name": "@vincentdevreede/nuxt-ios-webkit-active-css-pseudo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple, lightweight Nuxt plugin that resolves the :active CSS pseudo-class issue in iOS WebKit browsers.",
   "repository": "https://github.com/Vincentdevreede/nuxt-ios-webkit-active-css-pseudo",
   "license": "MIT",
