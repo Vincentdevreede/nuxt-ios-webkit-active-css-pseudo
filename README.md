@@ -65,13 +65,13 @@ Contributions are welcome! If you’ve got ideas or want to help out, feel free 
 If you run into any problems, let me know by reporting them [here](https://github.com/Vincentdevreede/nuxt-ios-webkit-active-css-pseudo/issues).
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/nuxt-ios-webkit-active-css-pseudo/latest.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-version-href]: https://npmjs.com/package/nuxt-ios-webkit-active-css-pseudo
+[npm-version-src]: https://img.shields.io/npm/v/@vincentdevreede/nuxt-ios-webkit-active-css-pseudo/latest.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-version-href]: https://www.npmjs.com/package/@vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-downloads-href]: https://npm.chart.dev/nuxt-ios-webkit-active-css-pseudo
+[npm-downloads-src]: https://img.shields.io/npm/dm/@vincentdevreede/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-downloads-href]: https://npm.chart.dev/@vincentdevreede/nuxt-ios-webkit-active-css-pseudo
 
-[license-src]: https://img.shields.io/npm/l/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
+[license-src]: https://img.shields.io/npm/l/@vincentdevreede/nuxt-ios-webkit-active-css-pseudo.svg?style=flat&colorA=020420&colorB=00DC82
 [license-href]: https://github.com/Vincentdevreede/nuxt-ios-webkit-active-css-pseudo/blob/HEAD/LICENSE
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
