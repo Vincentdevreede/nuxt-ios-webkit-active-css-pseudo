@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://nuxterror.com/" target="_blank">
-    <img src="https://nuxterror.com/logo.svg" alt="NuxtError" width="280" height="84">
-  </a>
+  <img src="https://nuxt.com/assets/design-kit/icon-green.png" alt="Nuxt" width="64" height="64">
 </p>
 
 # 📱 Nuxt iOS WebKit `:active` CSS Pseudo
